@@ -582,7 +582,7 @@
           "description": "Delete the character to the right of the insertion point",
           "type": "basic",
           "from": {
-            "key_code": "commma",
+            "key_code": "comma",
             "modifiers": {
               "mandatory": [
                 "right_command",
