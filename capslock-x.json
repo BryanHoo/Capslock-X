@@ -1,6 +1,7 @@
 {
   "title": "CapsLock-X",
   "version": "1.0.0",
+  "maintainers": ["BryanHoo"],
   "homepage": "https://github.com/BryanHoo/Capslock-X",
   "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/BryanHoo/Capslock-X/main/capslock-x.json",
   "rules": [
